@@ -6,6 +6,6 @@
 * Perfil no site - [Perfil Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/443847)
 
 ### Resoluções dos desafios
-Os desafios estão organizados por pastas com a linguagem especifíca da solução e o respectivo número do desafio, exemplo: 
+Os desafios estão organizados por pastas com a linguagem específica da solução e o respectivo número do desafio, exemplo: 
 * Desafio 2455 - Gangorra (Disponível no [site](https://www.beecrowd.com.br/judge/pt/problems/view/2455) )
     * Está disponível no caminho: [Desafios\Resoluções-Python\2455](Desafios/Resoluções-Python/2455)
